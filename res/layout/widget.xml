@@ -6,7 +6,7 @@
 
     <ImageButton
         android:contentDescription="@string/widget"
-        android:id="@+id/imgButton"
+        android:id="@+id/image_button"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:background="#00FFFFFF"
